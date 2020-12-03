@@ -11,6 +11,6 @@
         "additionalData": "https://schema.org/additionalProperty",
         "identityProof": "https://schema.org/additionalProperty",
         "$template": "https://schema.org/additionalProperty",
-        "linkedinOrganizationId": "https://schema.org/identifier",
+        "linkedinOrganizationId": "https://schema.org/identifier"
     }
 }
