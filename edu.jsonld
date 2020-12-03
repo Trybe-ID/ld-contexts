@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "url": "https://schema.org/URL", 
+        "imageUrl": "https://schema.org/URL", 
+        "issuerImageUrl": "https://schema.org/URL", 
+        "location": "https://schema.org/URL", 
+        "description": "https://schema.org/description", 
+        "email": "http://schema.org/email",
+        "name": "https://schema.org/givenName",
+        "resources": "https://schema.org/AlignmentObject",
+        "additionalData": "https://schema.org/additionalProperty",
+        "identityProof": "https://schema.org/additionalProperty",
+        "$template": "https://schema.org/additionalProperty",
+        "linkedinOrganizationId": "https://schema.org/identifier",
+    }
+}
