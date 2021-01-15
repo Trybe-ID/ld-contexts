@@ -25,6 +25,6 @@
       "identityProof": "https://schema.org/additionalProperty",
       "$template": "https://schema.org/additionalProperty",
       "linkedinOrganizationId": "https://schema.org/identifier",
-      "rendererConfigId": "https://schema.org/additionalProperty"
+      "rendererConfigId": "https://schema.org/identifier"
   }
 }
